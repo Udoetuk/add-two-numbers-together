@@ -7,7 +7,7 @@ print("First number is", first_number)
 second_number = input("Enter your second number here: ")
 int("second_number")
 print("Second number is", second_number)
-int(second_number)
+
 
 sum = (first_number + second_number)
 
